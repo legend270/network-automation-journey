@@ -1,22 +1,33 @@
-Network Device Availability Monitor v1.0
+# Network Device Availability Monitor v1.0
+
 A simple Python-based network monitoring tool that checks whether specified IP addresses are reachable and reports their status as ONLINE or OFFLINE.
-Project Overview
+
+## Project Overview
+
 This project was developed as part of my Networking + Python learning journey.
+
 The goal is to understand how Python can be used to automate basic network monitoring tasks.
-Features
-Monitor multiple IP addresses
-Check device availability using ping
-Display ONLINE/OFFLINE status
-Count total devices
-Count online devices
-Count offline devices
-Display results in a structured format
-Technologies Used
-Python
-subprocess
-Windows Command Prompt
-Basic networking concepts
-Example
+
+## Features
+
+- Monitor multiple IP addresses
+- Check device availability using ping
+- Display ONLINE/OFFLINE status
+- Count total devices
+- Count online devices
+- Count offline devices
+- Display results in a structured format
+
+## Technologies Used
+
+- Python
+- `subprocess`
+- Windows Command Prompt
+- Basic networking concepts
+
+## Example
+
+```text
 =================================================================
              NETWORK DEVICE MONITOR v1.0
 =================================================================
